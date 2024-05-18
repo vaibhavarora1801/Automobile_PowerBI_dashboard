@@ -14,13 +14,6 @@ The Holman Motorcars Business Analysis Dashboard provides comprehensive insights
 
    Labor Costs: $310.5K
 
-# Sales Price by Vehicle Type:
-
-   Coupe: 45.08% of sales
-
-   Saloon: 48.68% of sales
-
-   Convertible: 6.24% of sales
 
 # Sales Price by Reporting Year:
 
