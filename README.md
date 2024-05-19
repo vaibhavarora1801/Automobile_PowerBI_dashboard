@@ -4,7 +4,7 @@ The Holman Motorcars Business Analysis Dashboard provides comprehensive insights
 
 # Key Insights
 
-# (I) Performance Analysis
+# (I) Performance Analysis:
 
    Total Sales Price: $31.7M
 
@@ -14,25 +14,40 @@ The Holman Motorcars Business Analysis Dashboard provides comprehensive insights
 
    Labor Costs: $310.5K
 
+   Sales Breakdown by Vehicle Type and Make:
 
-# Sales Price by Reporting Year:
+   ![image](https://github.com/vaibhavarora1801/Automobile_PowerBI_dashboard/assets/170081817/70de6b11-7bd7-43e1-9076-f393bddd93cf)
 
-   2012: $3.2M
-    
-   2013: $7.2M
+# (II) Labor Cost Analysis:
+
+   Total Labor Cost: $310K
+
+   Highest Labor Cost: Aldo Motors ($26K)
+ 
+   Lowest Labor Cost: Premium Motor Vehicles ($500)
+
+   Labor Costs Breakdown by Vehicle Type and Make:
+
+   ![image](https://github.com/vaibhavarora1801/Automobile_PowerBI_dashboard/assets/170081817/deed8bfb-6085-4443-8226-1ac8f6ec065c)
+
+# (III) Discount and Sales Analysis:
+
+   Total Sales: $32M
+
+   Total Discount: $225.3K
+
+   Discount and Sales Analysis breakdown by Vehicle Type:
+
+   ![image](https://github.com/vaibhavarora1801/Automobile_PowerBI_dashboard/assets/170081817/97189c02-a87d-4335-a183-e184564945f6)
    
-   2014: $6.4M
+# Conclusion
 
-   2015: $15M  
-   
-# Sales Price by Make:
+The dashboard effectively visualizes Holman Motorcars' key metrics, highlighting sales performance, labor costs, and discounts across various dimensions. It offers valuable insights into the business's financial health and operational efficiency, aiding in strategic decision-making. The data modeling and transformations ensure accurate and meaningful representations, making it a crucial tool for ongoing business analysis. The analysis reveals significant insights into vehicle sales, cost distribution across different models, and client-specific sales performance. The data indicates a robust sales growth over the years, with Aston Martin and Rolls Royce being the top-selling brands.
 
-   Aston Martin: $11M
+# Access the Dashboard
 
-   Rolls Royce: $7M
-   
-   Jaguar: $6M
-  
-   Bentley: $5M
+For a detailed view of the dashboard, visit [Holman Motorcars Business Analysis Dashboard.](https://app.powerbi.com/links/2_qiDM3CJb?ctid=df0917df-fa2d-4868-b6ae-a16529831237&pbi_source=linkShare&bookmarkGuid=1f5ced12-d64a-4d6f-8777-b116e6b79f7d)
+
+
 
    
